@@ -1,8 +1,9 @@
 ﻿
 Console.WriteLine("Hello, World!");
 
-if (true) {
+if (true)
+{
 
                 return;
-    int a  =  0;
+    int a = 0;
 }
