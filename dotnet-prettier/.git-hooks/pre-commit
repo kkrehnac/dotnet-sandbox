@@ -1,3 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
+echo "pre-commit from dotnet-prettier custom .git-hooks"
 dotnet-format
