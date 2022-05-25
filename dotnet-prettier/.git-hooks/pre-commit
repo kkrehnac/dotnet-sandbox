@@ -1,3 +1,4 @@
 #!/bin/sh
 
+cd dotnet-prettier
 dotnet format --no-restore --verbosity detailed
