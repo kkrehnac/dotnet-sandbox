@@ -4,6 +4,7 @@ Console.WriteLine("Hello, World!");
 if (true)
 {
 
-                return;
+    return;
+
     int a = 0;
 }
