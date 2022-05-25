@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3994E8CE-B3A9-4CA3-9F8C-6726E13EADE0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-prettier", "dotnet-prettier\dotnet-prettier.csproj", "{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC69791-BCF8-4FF1-A4EE-7CF238D3B33C}
+	EndGlobalSection
+EndGlobal

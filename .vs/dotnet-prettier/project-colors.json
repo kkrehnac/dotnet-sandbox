@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ff44c28-fce5-4c1f-bb56-02d0b6e8c1fb": {
+      "ProjectGuid": "9ff44c28-fce5-4c1f-bb56-02d0b6e8c1fb",
+      "DisplayName": "dotnet-prettier",
+      "ColorIndex": 0
+    },
+    "3994e8ce-b3a9-4ca3-9f8c-6726e13eade0": {
+      "ProjectGuid": "3994e8ce-b3a9-4ca3-9f8c-6726e13eade0",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "69b695c5-443c-4db7-b033-f30d1ed174b8": {
+      "ProjectGuid": "69b695c5-443c-4db7-b033-f30d1ed174b8",
+      "DisplayName": "git_hooks",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

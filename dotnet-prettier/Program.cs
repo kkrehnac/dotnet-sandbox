@@ -5,8 +5,8 @@
             Console.WriteLine("Hello, World!");
 
 
-            if (true)
+if (true)
 
-{
+    {
     return;
 }
