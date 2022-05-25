@@ -1,5 +1,6 @@
 #!/bin/sh
 
+NC='\033[0m'
 YELLOW='\033[1;33m'
 
 # format
