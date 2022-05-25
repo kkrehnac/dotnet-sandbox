@@ -1,4 +1,5 @@
 #!/bin/sh
+echo "[dotnet-format] pre-commit"
 LC_ALL=C# Select files to format
 FILES=$(git diff --cached --name-only --diff-filter=ACM "*.cs" | sed 's| |\\ |g')
 [ -z "$FILES" ] && exit 0# Format all selected files
