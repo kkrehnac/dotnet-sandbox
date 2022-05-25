@@ -2,11 +2,11 @@
 
 
 
-            Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 
 
 if (true)
 
-    {
+{
     return;
 }

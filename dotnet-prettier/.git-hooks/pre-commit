@@ -1,5 +1,7 @@
 #!/bin/sh
 
+YELLOW='\033[1;33m'
+
 # format
 echo -e "${YELLOW}Running pre-commit hook, dotnet format...${NC}"
 dotnet format --no-restore --verbosity detailed
