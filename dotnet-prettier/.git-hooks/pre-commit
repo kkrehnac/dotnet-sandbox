@@ -1,6 +1,4 @@
 #!/usr/bin/env sh
 
 echo "pre-commit from dotnet-prettier custom .git-hooks"
-dotnet format analyzers 
-dotnet format style
-dotnet format whitespace 
+dotnet format
