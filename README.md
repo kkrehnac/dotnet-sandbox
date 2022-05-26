@@ -1,6 +1,7 @@
 ## Auto formatting hooked on git pre-format hook
 
-- `Solution -> Add new file -> .editorconfig`
+- Create editor config file
+	- in case of Visual Studio: `Solution -> Add new file -> .editorconfig`
 - Create folder in project root, for example `.gih-hooks`
 - Copy `.git/hooks/pre-commit.sample` to this new folder and rename it to `pre-commit`
 
