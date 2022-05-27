@@ -11,7 +11,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<IWeatherService, WeatherService>();
 
-builder.Services.Decorate<IWeatherService, DecoratedWeatherService>();
+//builder.Services.Decorate<IWeatherService, DecoratedWeatherService>();
 
 builder.Services.AddInterceptedSingleton<IWeatherService, WeatherService, LoggingInterceptor>();
 
