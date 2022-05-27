@@ -15,6 +15,7 @@ public class WeatherController : ControllerBase
 
 
 
+
     private readonly IWeatherService _weatherService;
 
     public WeatherController(IWeatherService weatherService)
