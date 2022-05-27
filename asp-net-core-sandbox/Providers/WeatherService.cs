@@ -4,6 +4,7 @@ public class WeatherService : IWeatherService
 {
     public WeatherForecast GetForecast()
     {
+        Console.WriteLine("I am bottom level service method GetForecast");
         return new WeatherForecast()
         {
             Text = "Wonderful weather"
