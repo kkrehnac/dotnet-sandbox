@@ -9,7 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".git-hooks\pre-commit" />
+    <Compile Remove=".git-hooks\**" />
+    <EmbeddedResource Remove=".git-hooks\**" />
+    <None Remove=".git-hooks\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="scrutor" Version="4.1.0" />
   </ItemGroup>
 
 </Project>

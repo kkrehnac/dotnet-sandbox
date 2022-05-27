@@ -8,7 +8,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3043408-895C-4E9C-9D6A-F87B426480F8}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		.git-hooks\pre-commit = .git-hooks\pre-commit
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp-net-core-sandbox", "asp-net-core-sandbox\asp-net-core-sandbox.csproj", "{4BFE2588-C8A7-4635-9CA8-06328A1D441C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +23,10 @@ Global
 		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFE2588-C8A7-4635-9CA8-06328A1D441C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFE2588-C8A7-4635-9CA8-06328A1D441C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFE2588-C8A7-4635-9CA8-06328A1D441C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFE2588-C8A7-4635-9CA8-06328A1D441C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
