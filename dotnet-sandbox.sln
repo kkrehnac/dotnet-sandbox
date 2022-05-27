@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-sandbox", "dotnet-sandbox\dotnet-sandbox.csproj", "{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3043408-895C-4E9C-9D6A-F87B426480F8}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFDC5942-AA70-4DFE-9B3F-16FE30D7D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4BFE2588-C8A7-4635-9CA8-06328A1D441C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4BFE2588-C8A7-4635-9CA8-06328A1D441C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BFE2588-C8A7-4635-9CA8-06328A1D441C}.Release|Any CPU.ActiveCfg = Release|Any CPU

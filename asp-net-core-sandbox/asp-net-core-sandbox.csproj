@@ -7,4 +7,9 @@
     <RootNamespace>asp_net_core_sandbox</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="scrutor" Version="4.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
 </Project>
